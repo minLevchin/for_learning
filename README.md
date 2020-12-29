@@ -1,5 +1,4 @@
-算法竞赛 https://www.zhihu.com/question/53249551
-数据竞赛 https://www.zhihu.com/question/393885079
+算法竞赛对你的科研idea是否起到了帮助   https://www.zhihu.com/question/393885079
 ACM题库 https://www.cnblogs.com/skylark/articles/905316.html
 TopCoder https://www.zhihu.com/search?type=content&q=Topcoder%20Open%2C
 清华EE https://www.zhihu.com/question/35539932
