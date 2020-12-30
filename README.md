@@ -7,3 +7,4 @@ TopCoder https://www.zhihu.com/search?type=content&q=Topcoder%20Open%2C
 tourist  https://www.zhihu.com/question/26701017
 楼天城和TCO   https://zhuanlan.zhihu.com/p/260384028?utm_source=wechat_session
 OJ 搜索系列   https://zzk.cnblogs.com/s?w=ICPC+%E9%A2%98%E5%BA%93
+实践的本质与基本结构 https://www.jianshu.com/p/6324ed390586
