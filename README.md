@@ -9,5 +9,5 @@ tourist  https://www.zhihu.com/question/26701017
 OJ 搜索系列   https://zzk.cnblogs.com/s?w=ICPC+%E9%A2%98%E5%BA%93
 实践的本质与基本结构 https://www.jianshu.com/p/6324ed390586
 地主阶级最厉害的人 https://www.zhihu.com/question/19692632
-技术和偶数  https://www.zhihu.com/question/409053331  https://www.zhihu.com/question/437040907
+奇数和偶数  https://www.zhihu.com/question/409053331  https://www.zhihu.com/question/437040907
 图灵奖、递归函数  https://www.sohu.com/a/409136888_773043
