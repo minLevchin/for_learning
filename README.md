@@ -12,3 +12,4 @@ OJ 搜索系列   https://zzk.cnblogs.com/s?w=ICPC+%E9%A2%98%E5%BA%93
 奇数和偶数  https://www.zhihu.com/question/409053331  https://www.zhihu.com/question/437040907
 图灵奖、递归函数  https://www.sohu.com/a/409136888_773043
 拼多多猝死 https://www.zhihu.com/question/437702180
+敏捷BI、传销、企业管理 https://zhuanlan.zhihu.com/p/265754976  https://www.zhihu.com/question/24694588
